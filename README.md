@@ -19,7 +19,6 @@
 | PHP         | 5年  | php7系に合わせた記法で書くことができます                     |
 | JavaScript  | 5年  | webpackを使ったモジュール化ができます<br />promiseを使った非同期処理が書けます |
 | html / CSSS | 6年  | SEOを意識した構造化マークアップをすることができます<br />flexboxやgridを使ってWebサイトのレイアウトをすることができます<br /><br />関連したQiita<br />[z-indexが言うことを聞いてくれない場合はこの辺のことが原因だと思うよ](https://qiita.com/ykyk1218/items/155ec7a8552da9fb2d8e)<br/>[SEO対策に役立つかもしれない、普段あまり注目されていないタグたちまとめ(HTML 5.1版)](https://qiita.com/ykyk1218/items/df39a6020601647fc660) |
-|             |      |                                                              |
 
 ### フレームワーク
 
@@ -124,4 +123,4 @@ ServiceWorkerを使って一部コンテンツのオフライン化対応をし�
 ## 課外活動
 
 - ストアカで講師をしています。[rubyで学ぶ0からのWebサービスプログラミング](https://www.street-academy.com/steachers/10014)
-- MENTAでメンターをしています。[RubyでWebサービスを作るときのあれこれの相談にのります
+- MENTAでメンターをしています。[RubyでWebサービスを作るときのあれこれの相談にのります](https://menta.work/plan/729)
