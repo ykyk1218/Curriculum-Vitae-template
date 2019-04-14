@@ -119,3 +119,4 @@ ServiceWorkerを使って一部コンテンツのオフライン化対応をし�
 
 - ストアカで講師をしています。[rubyで学ぶ0からのWebサービスプログラミング](https://www.street-academy.com/steachers/10014)
 - MENTAでメンターをしています。[RubyでWebサービスを作るときのあれこれの相談にのります](https://menta.work/plan/729)
+- 会社のですがブログ書いてます。https://tech.basicinc.jp/accounts/ykyk1218
