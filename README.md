@@ -4,7 +4,6 @@
 
 | key     | value                                     |
 | ------- | ----------------------------------------- |
-| Name    | 小林芳樹                                  |
 | Qiita   | https://qiita.com/ykyk1218               |
 | Github  | https://github/ykyk1218                   |
 | Twitter | [@ykyk1218](https://twitter.com/ykyk1218) |
